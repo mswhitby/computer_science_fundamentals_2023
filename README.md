@@ -1,4 +1,4 @@
-# Computer Science Fundmentals
+# Computer Science Fundamentals
 
 ## August 17, 2023
 
