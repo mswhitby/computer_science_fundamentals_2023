@@ -1,5 +1,6 @@
 # Computer Science Fundamentals
 
+----
 ## August 17, 2023
 
 ### TEKS
@@ -25,9 +26,9 @@
 
 ### Objectives
 - Student will be able to create headers, text, and list entries in a digital journal using Markdown language.
-- Student will be able to describe different carrer paths in computer science.
+- Student will be able to describe different career paths in computer science.
 
 ### Agenda
 - **Warmup:** Create a GitHub journal entry for today
 - Visit [Developer Roadmaps](https://roadmap.sh/) and explore computer science career paths
-- Draft a paragrah describing a computer science career that you find interesting and the skills needed for that path
+- Draft a paragraph describing a computer science career that you find interesting and the skills needed for that path
