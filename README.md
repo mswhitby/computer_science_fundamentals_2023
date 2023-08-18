@@ -1,6 +1,5 @@
 # Computer Science Fundmentals
 
-----
 ## August 17, 2023
 
 ### TEKS
