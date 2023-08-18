@@ -30,4 +30,4 @@
 ### Agenda
 - **Warmup:** Create a GitHub journal entry for today
 - Visit [Developer Roadmaps](https://roadmap.sh/) and explore computer science career paths
-- Draft a paragrah describin
+- Draft a paragrah describing a computer science career that you find interesting and the skills needed for that path
