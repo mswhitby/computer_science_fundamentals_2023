@@ -56,3 +56,9 @@
 - Create a new notebook and name it "sports_data".
 - Share your notebook with either "mswhitby".
 - Please fill out the [User Names Form](https://forms.gle/W9AinBmFJYDqwMq37).
+
+### Examples
+**Creating a link in markdown**
+```markdown
+[Title](https://www.example.com
+```
