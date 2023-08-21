@@ -32,3 +32,25 @@
 - **Warmup:** Create a GitHub journal entry for today
 - Visit [Developer Roadmaps](https://roadmap.sh/) and explore computer science career paths
 - Draft a paragraph describing a computer science career that you find interesting and the skills needed for that path
+
+----
+## August 21, 2023
+
+### TEKS
+- solve problems and think critically
+- demonstrate planning and time-management skills
+- employ effective technical reading and writing skills
+
+### Objectives
+- Student will be able to create headers, text, and list entries in a digital journal using Markdown language.
+- Student will be explore different roles and skill sets in computer science.
+
+### Agenda
+- Log into GitHub
+- Visit [Hour of Code](https://hourofcode.com/) and select an activity for Grades 9+.
+- Create a new journal entry explaining the activity you selected (include a link to the activity).
+
+**Sports Data**
+- Create a [Kaggle](https://www.kaggle.com/) account.
+- Create a new notebook and name it "sports_data".
+- Share your notebook with "mswhitby". 
