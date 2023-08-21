@@ -1,5 +1,10 @@
 # Computer Science Fundamentals
 
+[GitHub](https://github.com/mswhitby) |
+[WHS](https://www.judsonisd.org/domain/6785) |
+<dwhitby@judsonisd.org> |
+210.662.5000 ext. 17620
+
 ----
 ## August 17, 2023
 
