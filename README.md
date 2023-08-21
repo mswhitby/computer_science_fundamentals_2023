@@ -47,9 +47,9 @@
 
 ### Agenda
 **General Agenda**
-- Please fill out the [User Names Form](https://forms.gle/W9AinBmFJYDqwMq37).
 - Visit [Hour of Code](https://hourofcode.com/) and select an activity for Grades 9+.
 - Create a new GitHub journal entry explaining the activity you selected (include a link to the activity).
+- Please fill out the [User Names Form](https://forms.gle/W9AinBmFJYDqwMq37).
 
 **Sports Data Agenda**
 - Create a [Kaggle](https://www.kaggle.com/) account.
