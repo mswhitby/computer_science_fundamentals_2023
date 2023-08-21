@@ -6,9 +6,8 @@ To create a heading, add a hashtag (#) in front of a word or phrase. The number 
 ## Creating A Link
 | Example | Syntex |
 | ----------- | ----------- |
-| # Heading 1 | <th>`# Heading 1`<th> |
-| <https://www.example.com> | `<https://www.example.com>` |
-
+| <h1># Heading 1</h1> | `# Heading 1` |
+| <h2># Heading 2</h2> | `## Heading 2` |
 
 ```markdown
 # Heading 1
