@@ -1,4 +1,6 @@
-# Creating A Heading
+# Markdown Language Guide
+
+## Creating A Heading
 
 ```markdown
 # Heading 1
@@ -6,12 +8,12 @@
 ### Heading 3
 #### Heading 4
 ```
+# Heading 1
 ## Heading 2
 ### Heading 3
-#### Heading 4
 
-# Creating A Link
-- a link with a title
+## Creating A Link
+A link with a title
 ```markdown
 [Title](https://www.example.com
 ```
