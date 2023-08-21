@@ -46,12 +46,13 @@
 - Student will be explore different roles and skill sets in computer science.
 
 ### Agenda
-**General**
+**General Agenda**
 - Please fill out the [User Names Form](https://forms.gle/W9AinBmFJYDqwMq37).
 - Visit [Hour of Code](https://hourofcode.com/) and select an activity for Grades 9+.
 - Create a new GitHub journal entry explaining the activity you selected (include a link to the activity).
 
-**Sports Data**
+**Sports Data Agenda**
 - Create a [Kaggle](https://www.kaggle.com/) account.
 - Create a new notebook and name it "sports_data".
-- Share your notebook with "mswhitby". 
+- Share your notebook with either "mswhitby".
+- Please fill out the [User Names Form](https://forms.gle/W9AinBmFJYDqwMq37).
