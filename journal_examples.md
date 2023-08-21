@@ -1,9 +1,8 @@
 # Markdown Language Guide
 
 ## Creating A Heading
-To create a heading, add a hashtag (#) in front of a word or phrase. The number of hashtags you use should correspond to the heading level. For example, to create a heading level three (<h3>), use three hashtags (e.g., ### My Header).
+To create a heading, add a hashtag (#) in front of a word or phrase. The number of hashtags you use should correspond to the heading level. For example, to create a heading level three, use three hashtags (e.g., ### My Header).
 
-## Creating A Link
 | Description     | Example              | Syntex         |
 | --------------- | -------------------- | -------------- |
 | Heading level 1 | <h1>Heading 1</h1> | `# Heading 1`  |
@@ -12,7 +11,10 @@ To create a heading, add a hashtag (#) in front of a word or phrase. The number 
 
 ---
 ## Creating A Link
-| Description        | Example                          | Syntex                             |
-| ------------------ | -------------------------------- | ----------- |
-| Link with title    | [Title](https://www.example.com) | `[Title](https://www.example.com)` |
-| Link without title | <https://www.example.com>        | `<https://www.example.com>`        |
+- To create a link, enclose the link text in brackets (e.g., [WHS]) and then follow it immediately with the URL in parentheses (e.g., (https://www.judsonisd.org/wagner)).
+- To quickly turn a URL or email address into a link, enclose it in angle brackets.
+
+| Description        | Example                                 | Syntex                                    |
+| ------------------ | --------------------------------------- | ----------------------------------------- |
+| Link with title    | [WHS](https://www.judsonisd.org/wagner) | `[WHS](https://www.judsonisd.org/wagner)` |
+| Link without title | <https://www.judsonisd.org/wagner>      | `<https://www.judsonisd.org/wagner>`      |
