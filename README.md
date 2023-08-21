@@ -43,7 +43,7 @@
 
 ### Objectives
 - Student will be able to create headers, text, and list entries in a digital journal using Markdown language.
-- Student will be explore different roles and skill sets in computer science.
+- Student will understand basic syntax of Python coding language.
 
 ### Agenda
 **General Agenda**
