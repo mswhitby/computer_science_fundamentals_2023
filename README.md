@@ -33,14 +33,6 @@
 - Visit [Developer Roadmaps](https://roadmap.sh/) and explore computer science career paths
 - Draft a paragraph describing a computer science career that you find interesting and the skills needed for that path
 
-### Examples
-- **Creating heading in markdown:**
-```markdown
-# Heading 1
-## Heading 2
-### Heading 3
-```
-
 ----
 ## August 21, 2023
 
@@ -64,9 +56,3 @@
 - Create a new notebook and name it "sports_data".
 - Share your notebook with either "mswhitby".
 - Please fill out the [User Names Form](https://forms.gle/W9AinBmFJYDqwMq37).
-
-### Examples
-- **Creating a link in markdown:**
-```markdown
-[Title](https://www.example.com
-```
