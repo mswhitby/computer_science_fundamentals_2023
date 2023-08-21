@@ -15,9 +15,10 @@
 ```markdown
 [Title](https://www.example.com
 ```
-[Title](https://www.example.com
+[Title](https://www.example.com)
 
-- a link without a title
+ A link without a title
 ```markdown
 <https://www.example.com>
 ```
+<https://www.example.com>
