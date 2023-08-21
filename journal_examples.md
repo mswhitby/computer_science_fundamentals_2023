@@ -1,11 +1,12 @@
 # Markdown Language Guide
 
 ## Creating A Heading
+To create a heading, add a hashtag (#) in front of a word or phrase. The number of hashtags you use should correspond to the heading level. For example, to create a heading level three (<h3>), use three hashtags (e.g., ### My Header).
 
 ## Creating A Link
 | Example | Syntex |
 | ----------- | ----------- |
-| # Heading 1 | `# Heading 1` |
+| # Heading 1 | <th>`# Heading 1`<th> |
 | <https://www.example.com> | `<https://www.example.com>` |
 
 
