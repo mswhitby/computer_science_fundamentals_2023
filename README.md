@@ -46,6 +46,7 @@
 - Student will be explore different roles and skill sets in computer science.
 
 ### Agenda
+**General**
 - Log into GitHub
 - Visit [Hour of Code](https://hourofcode.com/) and select an activity for Grades 9+.
 - Create a new journal entry explaining the activity you selected (include a link to the activity).
